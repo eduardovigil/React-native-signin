@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784411868666",
+    "project_id": "expo--signin-firebase-67f2c",
+    "storage_bucket": "expo--signin-firebase-67f2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784411868666:android:a6ef1cee38db9f2b5cf843",
+        "android_client_info": {
+          "package_name": "com.eduardo.firebasesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784411868666-plhdipc8l1q2g34atq3gsugjq75bvsqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduardo.firebasesignin",
+            "certificate_hash": "11dbff75cc0c4d4d6ad6a67b5aa38b7c4b3134b6"
+          }
+        },
+        {
+          "client_id": "784411868666-mr1pc1kmk3p541c6i1j8f0h2krolq1bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiApAx2z9m-5hFevCr0s6B5RYDv99RR2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784411868666-mr1pc1kmk3p541c6i1j8f0h2krolq1bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
